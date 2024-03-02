@@ -3,11 +3,13 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Few of my Projects are [Farm Insect Sentry](https://github.com/Naman2857/insect-prediction)
+- 🔭 Few of my Projects are
+  
+- [Farm Insect Sentry](https://github.com/Naman2857/insect-prediction)
 
-- 👯 Few of my Projects are [CodeNook](https://github.com/Naman2857/CodeNook.git)
+- [CodeNook](https://github.com/Naman2857/CodeNook.git)
 
-- 🤝 Few of my Projects are [Aura](https://github.com/Naman2857/Aura.git)
+- [Aura](https://github.com/Naman2857/Aura.git)
 
 - 🌱 I’m currently Studying **BTECH CSE**
 
