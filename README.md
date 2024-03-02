@@ -1,3 +1,4 @@
+![logo](https://t4.ftcdn.net/jpg/05/54/46/89/360_F_554468927_iwU3VYIjsaeopAb0WPYxVf21TloEhTEj.jpg)
 <h1 align="center">Hi 👋, I'm Naman Aggarwal</h1>
 <h3 align="center">A Passionate MERN STACK DEVELOPER and AI/ML Enthusiast</h3>
 
